@@ -1,0 +1,14 @@
+D:\C#\Module1(2)\Module1(2)\bin\Debug\net9.0\Module1(2).exe
+D:\C#\Module1(2)\Module1(2)\bin\Debug\net9.0\Module1(2).deps.json
+D:\C#\Module1(2)\Module1(2)\bin\Debug\net9.0\Module1(2).runtimeconfig.json
+D:\C#\Module1(2)\Module1(2)\bin\Debug\net9.0\Module1(2).dll
+D:\C#\Module1(2)\Module1(2)\bin\Debug\net9.0\Module1(2).pdb
+D:\C#\Module1(2)\Module1(2)\obj\Debug\net9.0\Module1(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Module1(2)\Module1(2)\obj\Debug\net9.0\Module1(2).AssemblyInfoInputs.cache
+D:\C#\Module1(2)\Module1(2)\obj\Debug\net9.0\Module1(2).AssemblyInfo.cs
+D:\C#\Module1(2)\Module1(2)\obj\Debug\net9.0\Module1(2).csproj.CoreCompileInputs.cache
+D:\C#\Module1(2)\Module1(2)\obj\Debug\net9.0\Module1(2).dll
+D:\C#\Module1(2)\Module1(2)\obj\Debug\net9.0\refint\Module1(2).dll
+D:\C#\Module1(2)\Module1(2)\obj\Debug\net9.0\Module1(2).pdb
+D:\C#\Module1(2)\Module1(2)\obj\Debug\net9.0\Module1(2).genruntimeconfig.cache
+D:\C#\Module1(2)\Module1(2)\obj\Debug\net9.0\ref\Module1(2).dll
